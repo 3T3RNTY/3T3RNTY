@@ -1,0 +1,4 @@
+- Emirhan '3T3RNTY'
+- Fırat University Software Engineer Student
+- Lives in Balıkesir/Turkiye
+- Currently using Java and C#
